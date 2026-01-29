@@ -1,4 +1,7 @@
 {
+  "engines":{
+    "node": ">=20.x"
+  },
   "name": "moonlight-web",
   "version": "1.0.0",
   "description": "",
